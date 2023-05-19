@@ -1,0 +1,19 @@
+.logo {
+    width:61px;
+    height:52px;
+}
+.Restaurent {
+    height:200px;
+    width: 400px;
+}
+.heading {
+    margin-left: 20px ;
+}
+.footer {
+    margin-left: 10px;
+}
+.para{
+    color: black;
+    padding: 0;
+    margin-bottom: 0;
+}
